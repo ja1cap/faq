@@ -13,7 +13,8 @@
 3. https://www.iconfinder.com/
 4. https://icons8.com
 5. http://www.flaticon.com/
-6. https://rusability.ru/usability/54-besplatnyih-nabora-sotsialnyih-ikonok-dlya-vashego-sayta/
+6. https://icomoon.io
+7. https://rusability.ru/usability/54-besplatnyih-nabora-sotsialnyih-ikonok-dlya-vashego-sayta/
 
 #PHPStorm
 1. https://www.youtube.com/watch?v=aXxPq1MrgK4

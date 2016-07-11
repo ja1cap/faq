@@ -18,3 +18,6 @@
 
 #PHPStorm
 1. https://www.youtube.com/watch?v=aXxPq1MrgK4
+
+#Video
+1. Covert .mkv to .mp4 - avconv -i Marvels.Agents.of.S.H.I.E.L.D.S03E05.720p.LostFilm.mkv -map 0:0 -map 0:2 -codec copy Marvels.Agents.S03E05.mp4

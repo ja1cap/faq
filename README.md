@@ -16,6 +16,11 @@
 6. https://icomoon.io
 7. https://rusability.ru/usability/54-besplatnyih-nabora-sotsialnyih-ikonok-dlya-vashego-sayta/
 
+#Random generators
+1. https://randomuser.me/
+2. https://unsplash.it/1920/1080/?random
+3. https://placehold.it/
+
 #PHPStorm
 1. https://www.youtube.com/watch?v=aXxPq1MrgK4
 

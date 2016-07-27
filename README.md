@@ -19,7 +19,8 @@
 #Random generators
 1. https://randomuser.me/
 2. https://unsplash.it/1920/1080/?random
-3. https://placehold.it/
+3. https://source.unsplash.com/
+4. https://placehold.it/
 
 #PHPStorm
 1. https://www.youtube.com/watch?v=aXxPq1MrgK4

@@ -27,3 +27,9 @@
 
 #Video
 1. Covert .mkv to .mp4 - avconv -i Marvels.Agents.of.S.H.I.E.L.D.S03E05.720p.LostFilm.mkv -map 0:0 -map 0:2 -codec copy Marvels.Agents.S03E05.mp4
+
+# Benchmarking
+1. https://www.linode.com/docs/tools-reference/tools/load-testing-with-siege
+
+# Git
+1. https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-Rerere

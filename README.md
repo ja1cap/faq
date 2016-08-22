@@ -21,6 +21,7 @@
 2. https://unsplash.it/1920/1080/?random
 3. https://source.unsplash.com/
 4. https://placehold.it/
+5. https://github.com/fzaninotto/Faker
 
 #PHPStorm
 1. https://www.youtube.com/watch?v=aXxPq1MrgK4

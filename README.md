@@ -23,7 +23,7 @@
 4. https://placehold.it/
 5. https://github.com/fzaninotto/Faker
 
-AI
+#AI
 1. https://github.com/php-ai/php-ml
 
 #PHPStorm

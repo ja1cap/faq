@@ -1,5 +1,8 @@
 # faq
 
+#SSL
+1. Free SSL https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
+
 #Linux
 1. [DNS setup](http://www.krizna.com/ubuntu/configure-dns-server-ubuntu-14-04/)
 2. Check port - lsof -i :80

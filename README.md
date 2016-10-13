@@ -37,6 +37,7 @@
 
 # Benchmarking
 1. https://www.linode.com/docs/tools-reference/tools/load-testing-with-siege
+2. siege -c50 -t60S -H 'Content-Type: application/json' 'http://domain.com/path/to/json.php POST {"ids": ["1","2","3"]}'
 
 # Git
 1. https://git-scm.com/book/ru/v2/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B-Git-Rerere

@@ -1,5 +1,8 @@
 # faq
 
+#General
+1. Programming-Idioms http://www.programming-idioms.org/
+
 #SSL
 1. Free SSL https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-14-04
 

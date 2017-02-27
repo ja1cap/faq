@@ -50,3 +50,4 @@
 
 # Reference
 [Belstraovka.by](https://www.reference.com/web?o=600605&l=dir&qo=serpSearchTopBox&q=belstrahovka.by)
+[Каско минск](https://www.reference.com/web?o=600605&l=dir&qo=serpSearchTopBox&q=Каско+минск+site%3Abelstrahovka.by)

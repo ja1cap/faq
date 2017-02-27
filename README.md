@@ -49,4 +49,4 @@
 1. https://github.com/Automattic
 
 # Reference
-[Belstraovka.by](hhttps://www.reference.com/web?o=600605&l=dir&qo=serpSearchTopBox&q=belstrahovka.by)
+[Belstraovka.by](https://www.reference.com/web?o=600605&l=dir&qo=serpSearchTopBox&q=belstrahovka.by)
